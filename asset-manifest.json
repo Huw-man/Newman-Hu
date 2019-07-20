@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Hwebsite/static/css/main.b444731e.chunk.css",
-    "main.js": "/Hwebsite/static/js/main.1bef9c0e.chunk.js",
-    "main.js.map": "/Hwebsite/static/js/main.1bef9c0e.chunk.js.map",
-    "runtime~main.js": "/Hwebsite/static/js/runtime~main.440cc965.js",
-    "runtime~main.js.map": "/Hwebsite/static/js/runtime~main.440cc965.js.map",
-    "static/js/2.07d6433a.chunk.js": "/Hwebsite/static/js/2.07d6433a.chunk.js",
-    "static/js/2.07d6433a.chunk.js.map": "/Hwebsite/static/js/2.07d6433a.chunk.js.map",
-    "index.html": "/Hwebsite/index.html",
-    "precache-manifest.05b970802cd110646a706f57d7a581bc.js": "/Hwebsite/precache-manifest.05b970802cd110646a706f57d7a581bc.js",
-    "service-worker.js": "/Hwebsite/service-worker.js",
-    "static/css/main.b444731e.chunk.css.map": "/Hwebsite/static/css/main.b444731e.chunk.css.map",
-    "static/media/logo.svg": "/Hwebsite/static/media/logo.5d5d9eef.svg",
-    "static/media/myAvatar.svg": "/Hwebsite/static/media/myAvatar.a9284db9.svg"
+    "main.css": "/Newman-Hu/static/css/main.b444731e.chunk.css",
+    "main.js": "/Newman-Hu/static/js/main.36aed998.chunk.js",
+    "main.js.map": "/Newman-Hu/static/js/main.36aed998.chunk.js.map",
+    "runtime~main.js": "/Newman-Hu/static/js/runtime~main.ffd989e9.js",
+    "runtime~main.js.map": "/Newman-Hu/static/js/runtime~main.ffd989e9.js.map",
+    "static/js/2.07d6433a.chunk.js": "/Newman-Hu/static/js/2.07d6433a.chunk.js",
+    "static/js/2.07d6433a.chunk.js.map": "/Newman-Hu/static/js/2.07d6433a.chunk.js.map",
+    "index.html": "/Newman-Hu/index.html",
+    "precache-manifest.6c33a461ea4eda534e3f38f0db40edd1.js": "/Newman-Hu/precache-manifest.6c33a461ea4eda534e3f38f0db40edd1.js",
+    "service-worker.js": "/Newman-Hu/service-worker.js",
+    "static/css/main.b444731e.chunk.css.map": "/Newman-Hu/static/css/main.b444731e.chunk.css.map",
+    "static/media/logo.svg": "/Newman-Hu/static/media/logo.5d5d9eef.svg",
+    "static/media/myAvatar.svg": "/Newman-Hu/static/media/myAvatar.a9284db9.svg"
   }
 }
