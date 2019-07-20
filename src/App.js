@@ -5,18 +5,14 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home"
 import Section from "./components/Section";
 import dummyText from "./components/DummyText"
+import AboutMe from "./components/AboutMe";
 
 function App() {
   return (
     <div className="App">
         <Navbar/>
       <Home/>
-      <Section
-          title="Section 2"
-          subtitle={dummyText}
-          dark={false}
-          id="section2"
-      />
+      <AboutMe/>
       <Section
           title="Section 3"
           subtitle={dummyText}

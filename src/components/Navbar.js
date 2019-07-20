@@ -23,7 +23,7 @@ class Navbar extends Component {
                         <li className={"nav-item"}>
                             <Link
                                 activeClass="active"
-                                to="section2"
+                                to="aboutMe"
                                 spy={true}
                                 smooth={true}
                                 offset={-70}
@@ -41,7 +41,7 @@ class Navbar extends Component {
                                 offset={-70}
                                 duration={500}
                             >
-                                Section 3
+                                Resume
                             </Link>
                         </li>
                         <li className={"nav-item"}>
