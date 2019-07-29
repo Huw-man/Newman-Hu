@@ -1,7 +1,6 @@
 import React, {Component} from "react";
-import logo from '../resources/logo.svg'
 import avatar from "../resources/myAvatar.svg"
-import { Link, animateScroll as scroll } from "react-scroll";
+import {animateScroll as scroll, Link} from "react-scroll";
 
 class Navbar extends Component {
 
@@ -13,7 +12,7 @@ class Navbar extends Component {
         return (
             <nav className={"nav"} id={"navbar"}>
                 <div className="nav-content">
-                    <header> Newman Hu</header>
+                    <header>Newman Hu</header>
                     <img src={avatar}
                     className={"nav-logo"}
                     alt={"Logo"}
@@ -35,7 +34,7 @@ class Navbar extends Component {
                         <li className={"nav-item"}>
                             <Link
                                 activeClass="active"
-                                to="section3"
+                                to="resume"
                                 spy={true}
                                 smooth={true}
                                 offset={-70}
