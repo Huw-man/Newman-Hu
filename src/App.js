@@ -12,18 +12,18 @@ function App() {
         <div className="App">
             <Navbar/>
             <Home/>
-            <AboutMe/>
-            <Resume/>
+            <AboutMe dark={true}/>
+            <Resume dark={false}/>
             <Section
                 title="Section 4"
                 subtitle={dummyText}
-                dark={false}
+                dark={true}
                 id="section4"
             />
             <Section
                 title="Section 5"
                 subtitle={dummyText}
-                dark={true}
+                dark={false}
                 id="section5"
             />
         </div>

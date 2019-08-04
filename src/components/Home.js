@@ -1,17 +1,13 @@
-import React, {Component} from "react";
+import React from "react";
 import avatar from "../resources/myAvatar.svg";
 
-class Home extends Component {
-
-    render() { return (
-        <div id={"home"}>
+export default function Home({dark}) {
+    return (
+        <div id={"home"} className={"section" + (dark ? " section-dark" : "")}>
             <img src={avatar}
                  className={"home-avatar"}
                  alt={"Logo"}
             />
         </div>
     );
-    }
 }
-
-export default Home

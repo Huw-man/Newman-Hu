@@ -5,6 +5,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 const useStyles = makeStyles(theme => ({
     root: {
         flexGrow: 1,
+        padding: '20px',
     },
     image: {
         width: 320,
@@ -19,8 +20,10 @@ export default function ResumeItem({logo, company, position, location, content})
     const classes = useStyles();
     // noinspection RequiredAttributes,HtmlDeprecatedAttribute
     return (
-        <Paper elevation={3}>
-            <Grid container spacing={1}>
+        <Paper elevation={3} className={classes.root}>
+            <Grid container
+                  alignItems={'center'}
+                  spacing={4}>
                 <Grid item xs={5}>
                     <ButtonBase>
                         <img className={classes.image}
@@ -38,7 +41,7 @@ export default function ResumeItem({logo, company, position, location, content})
                                 align={'left'}>
                         {position}
                     </Typography>
-                    <Typography variant={'subtitle1'}
+                    <Typography variant={'h6'}
                                 align={'left'}>
                         {location}
                     </Typography>
