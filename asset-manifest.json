@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Newman-Hu/static/css/main.feaee0bc.chunk.css",
-    "main.js": "/Newman-Hu/static/js/main.0b8807f3.chunk.js",
-    "main.js.map": "/Newman-Hu/static/js/main.0b8807f3.chunk.js.map",
+    "main.js": "/Newman-Hu/static/js/main.4877cdbd.chunk.js",
+    "main.js.map": "/Newman-Hu/static/js/main.4877cdbd.chunk.js.map",
     "runtime~main.js": "/Newman-Hu/static/js/runtime~main.ffd989e9.js",
     "runtime~main.js.map": "/Newman-Hu/static/js/runtime~main.ffd989e9.js.map",
-    "static/js/2.ad7cf2ef.chunk.js": "/Newman-Hu/static/js/2.ad7cf2ef.chunk.js",
-    "static/js/2.ad7cf2ef.chunk.js.map": "/Newman-Hu/static/js/2.ad7cf2ef.chunk.js.map",
+    "static/js/2.15d0fa1c.chunk.js": "/Newman-Hu/static/js/2.15d0fa1c.chunk.js",
+    "static/js/2.15d0fa1c.chunk.js.map": "/Newman-Hu/static/js/2.15d0fa1c.chunk.js.map",
     "index.html": "/Newman-Hu/index.html",
-    "precache-manifest.bae2da1fe0f75f9dd95c891724ab0ff2.js": "/Newman-Hu/precache-manifest.bae2da1fe0f75f9dd95c891724ab0ff2.js",
+    "precache-manifest.a183b6d3d4b2584e9f3b5934693813e0.js": "/Newman-Hu/precache-manifest.a183b6d3d4b2584e9f3b5934693813e0.js",
     "service-worker.js": "/Newman-Hu/service-worker.js",
     "static/css/main.feaee0bc.chunk.css.map": "/Newman-Hu/static/css/main.feaee0bc.chunk.css.map",
     "static/media/LinkedIn_logo_initials.png": "/Newman-Hu/static/media/LinkedIn_logo_initials.f08c524d.png",
@@ -16,6 +16,7 @@
     "static/media/SLAC_Logo.png": "/Newman-Hu/static/media/SLAC_Logo.b411f267.png",
     "static/media/myAvatar.svg": "/Newman-Hu/static/media/myAvatar.a9284db9.svg",
     "static/media/sait_resized.png": "/Newman-Hu/static/media/sait_resized.60ed78ce.png",
-    "static/media/vr_berkeley.png": "/Newman-Hu/static/media/vr_berkeley.277b5e80.png"
+    "static/media/vr_berkeley.png": "/Newman-Hu/static/media/vr_berkeley.277b5e80.png",
+    "static/media/xp_background.jpg": "/Newman-Hu/static/media/xp_background.c3991c34.jpg"
   }
 }

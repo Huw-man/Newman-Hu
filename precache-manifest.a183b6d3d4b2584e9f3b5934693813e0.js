@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "150d494a04dd89ef5bbd54122afd4d0f",
+    "revision": "cb6fd9ac1971c34ddc601908a531a62d",
     "url": "/Newman-Hu/index.html"
   },
   {
-    "revision": "a8aac76cd1a936362b50",
+    "revision": "f10d1293ef72e5d3412f",
     "url": "/Newman-Hu/static/css/main.feaee0bc.chunk.css"
   },
   {
-    "revision": "caf5c9c6af535a8e7ac9",
-    "url": "/Newman-Hu/static/js/2.ad7cf2ef.chunk.js"
+    "revision": "b9596030c9df9240acab",
+    "url": "/Newman-Hu/static/js/2.15d0fa1c.chunk.js"
   },
   {
-    "revision": "a8aac76cd1a936362b50",
-    "url": "/Newman-Hu/static/js/main.0b8807f3.chunk.js"
+    "revision": "f10d1293ef72e5d3412f",
+    "url": "/Newman-Hu/static/js/main.4877cdbd.chunk.js"
   },
   {
     "revision": "298954673295f5210196",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "277b5e806bbce14d5ee73d4c209d7a33",
     "url": "/Newman-Hu/static/media/vr_berkeley.277b5e80.png"
+  },
+  {
+    "revision": "c3991c3445a0e11e140c4bf9b44e87ad",
+    "url": "/Newman-Hu/static/media/xp_background.c3991c34.jpg"
   }
 ]);
