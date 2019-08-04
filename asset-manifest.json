@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Newman-Hu/static/css/main.9fde4340.chunk.css",
-    "main.js": "/Newman-Hu/static/js/main.fadf357a.chunk.js",
-    "main.js.map": "/Newman-Hu/static/js/main.fadf357a.chunk.js.map",
+    "main.css": "/Newman-Hu/static/css/main.feaee0bc.chunk.css",
+    "main.js": "/Newman-Hu/static/js/main.9a6379c3.chunk.js",
+    "main.js.map": "/Newman-Hu/static/js/main.9a6379c3.chunk.js.map",
     "runtime~main.js": "/Newman-Hu/static/js/runtime~main.ffd989e9.js",
     "runtime~main.js.map": "/Newman-Hu/static/js/runtime~main.ffd989e9.js.map",
-    "static/js/2.a5e5aca8.chunk.js": "/Newman-Hu/static/js/2.a5e5aca8.chunk.js",
-    "static/js/2.a5e5aca8.chunk.js.map": "/Newman-Hu/static/js/2.a5e5aca8.chunk.js.map",
+    "static/js/2.187cda0f.chunk.js": "/Newman-Hu/static/js/2.187cda0f.chunk.js",
+    "static/js/2.187cda0f.chunk.js.map": "/Newman-Hu/static/js/2.187cda0f.chunk.js.map",
     "index.html": "/Newman-Hu/index.html",
-    "precache-manifest.6bcc4293baf7b0378329b7e38c7176e4.js": "/Newman-Hu/precache-manifest.6bcc4293baf7b0378329b7e38c7176e4.js",
+    "precache-manifest.fb355ec1f6402f8f1386595c5a51e59c.js": "/Newman-Hu/precache-manifest.fb355ec1f6402f8f1386595c5a51e59c.js",
     "service-worker.js": "/Newman-Hu/service-worker.js",
-    "static/css/main.9fde4340.chunk.css.map": "/Newman-Hu/static/css/main.9fde4340.chunk.css.map",
-    "static/media/SICK-Logo_001.png": "/Newman-Hu/static/media/SICK-Logo_001.7dc00018.png",
+    "static/css/main.feaee0bc.chunk.css.map": "/Newman-Hu/static/css/main.feaee0bc.chunk.css.map",
+    "static/media/SICK_logo_resized.png": "/Newman-Hu/static/media/SICK_logo_resized.b802740e.png",
+    "static/media/SLAC_Logo.png": "/Newman-Hu/static/media/SLAC_Logo.b411f267.png",
     "static/media/myAvatar.svg": "/Newman-Hu/static/media/myAvatar.a9284db9.svg"
   }
 }
