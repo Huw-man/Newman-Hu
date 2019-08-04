@@ -19,6 +19,18 @@ class Navbar extends Component {
                     onClick={this.scrollToTop}
                     />
                     <ul className={"nav-items"}>
+                        <li className={'nav-item'}>
+                            <Link
+                                activeClass={'active'}
+                                to={'home'}
+                                spy={true}
+                                smooth={true}
+                                offset={-70}
+                                duration={500}
+                            >
+                                Home
+                            </Link>
+                        </li>
                         <li className={"nav-item"}>
                             <Link
                                 activeClass="active"
@@ -46,27 +58,27 @@ class Navbar extends Component {
                         <li className={"nav-item"}>
                             <Link
                                 activeClass="active"
-                                to="section4"
+                                to="contact"
                                 spy={true}
                                 smooth={true}
                                 offset={-70}
                                 duration={500}
                             >
-                                Section 4
+                                Contact
                             </Link>
                         </li>
-                        <li className={"nav-item"}>
-                            <Link
-                                activeClass="active"
-                                to="section5"
-                                spy={true}
-                                smooth={true}
-                                offset={-70}
-                                duration={500}
-                            >
-                                Section 5
-                            </Link>
-                        </li>
+                        {/*<li className={"nav-item"}>*/}
+                        {/*    <Link*/}
+                        {/*        activeClass="active"*/}
+                        {/*        to="section5"*/}
+                        {/*        spy={true}*/}
+                        {/*        smooth={true}*/}
+                        {/*        offset={-70}*/}
+                        {/*        duration={500}*/}
+                        {/*    >*/}
+                        {/*        Section 5*/}
+                        {/*    </Link>*/}
+                        {/*</li>*/}
                     </ul>
                 </div>
             </nav>
