@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47320a8dd631b914936eaedd4a8b51e6",
+    "revision": "150d494a04dd89ef5bbd54122afd4d0f",
     "url": "/Newman-Hu/index.html"
   },
   {
