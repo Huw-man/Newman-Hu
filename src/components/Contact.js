@@ -17,7 +17,7 @@ export default function Contact({dark}) {
              className={"section" + (dark ? " section-dark" : "")}>
             <div className={'section-content'}>
                 <h1> Contact </h1>
-                <h3> Thanks for scrolling through! Why don't we connect on LinkedIn?</h3>
+                <h3> Thanks for scrolling through! Why don't we connect?</h3>
                 <ButtonBase href={'https://www.linkedin.com/in/newmanhu'}
                             target={'blank'}>
                     <img className={classes.image}

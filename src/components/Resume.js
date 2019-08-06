@@ -6,6 +6,7 @@ import saitLogo from "../resources/sait_resized.png"
 import VRBLogo from "../resources/vr_berkeley.png"
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Grid from "@material-ui/core/Grid";
+import ResumeVideoItem from "./ResumeVideoItem";
 
 const useStyles = makeStyles(({
     root: {
@@ -73,6 +74,21 @@ export default function Resume({dark}) {
                             'create machine learning models quickly and interactively. It is poised as an educational ' +
                             'tool for teaching computer science. I led back-end development for the necessary infrastructure ' +
                             'to create sound machine learning models using Keras and Tensorflow.'}
+                        />
+                    </Grid>
+                    <Grid item xs={12}>
+                        <ResumeVideoItem
+                            videoURL={'https://youtu.be/zqXvdnZSFrI'}
+                            company={'Virtual Reality @ Berkeley'}
+                            position={'VR Decal Final Project'}
+                            content={'I took the VR Decal which is a student lead course that teaches VR game development with Unity and Oculus Rift. ' +
+                            'For the final project my four-person group developed a creative sandbox game that allowed users ' +
+                            'to interact with their environment using “the Force” from Star Wars. Players have a great feel for the weight ' +
+                            'of virtual objects and our controls provide a very intuitive representation of what it would feel like as a Jedi. ' +
+                            'You can throw a wide assortment of objects at a large broken wall, play with an extremely heavy Jenga tower, or even ' +
+                            'pull down the moon if you have enough strength! Our project was very well received and nearly everyone loved the awesome feel of power from using the force. \n' +
+                            '\n (This project is currently in further development by a third party so there is no' +
+                            ' public repo, but feel free to contact me for details! Also check out the demonstration video)\n'}
                         />
                     </Grid>
                 </Grid>
