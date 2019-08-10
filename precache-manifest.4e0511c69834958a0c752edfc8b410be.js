@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30fbac31a66fd9d41eb5014e6bcfd893",
+    "revision": "ca4ec0361fa21182aed7573a2dd1c5f5",
     "url": "/Newman-Hu/index.html"
   },
   {
-    "revision": "a4152cbb5ba59b63aa68",
+    "revision": "79db04ec9a5c844539f6",
     "url": "/Newman-Hu/static/css/main.feaee0bc.chunk.css"
   },
   {
-    "revision": "2e37b8d61b4d3b052fb6",
-    "url": "/Newman-Hu/static/js/2.3b4f25b0.chunk.js"
+    "revision": "eae36d77d18d3c92a0f6",
+    "url": "/Newman-Hu/static/js/2.c086df70.chunk.js"
   },
   {
-    "revision": "a4152cbb5ba59b63aa68",
-    "url": "/Newman-Hu/static/js/main.32af9c7f.chunk.js"
+    "revision": "79db04ec9a5c844539f6",
+    "url": "/Newman-Hu/static/js/main.fd9b0674.chunk.js"
   },
   {
     "revision": "298954673295f5210196",
     "url": "/Newman-Hu/static/js/runtime~main.ffd989e9.js"
+  },
+  {
+    "revision": "e12a0a57098357c90679a117a5ddcc5a",
+    "url": "/Newman-Hu/static/media/Epic Catan dice thumb.e12a0a57.PNG"
   },
   {
     "revision": "f08c524d147f46398cb54013ee7013ee",
