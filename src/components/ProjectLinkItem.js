@@ -16,7 +16,7 @@ const useStyles = makeStyles(theme => ({
     },
 }));
 
-export default function ResumeItem({logo, company, position, location, content, link}) {
+export default function ResumeItem({logo, name, content, link, link2}) {
     const classes = useStyles();
     // noinspection RequiredAttributes,HtmlDeprecatedAttribute
     return (
@@ -37,19 +37,14 @@ export default function ResumeItem({logo, company, position, location, content, 
                     <Typography variant={'h5'}
                                 align={'left'}
                                 color={"textPrimary"}>
-                        {company}
-                    </Typography>
-                    <Typography variant={'h6'}
-                                align={'left'}>
-                        {position}
-                    </Typography>
-                    <Typography variant={'h6'}
-                                align={'left'}>
-                        {location}
+                        {name}
                     </Typography>
                     <Typography variant={'body1'}
                                 align={'left'}>
                         {content}
+                    </Typography>
+                    <Typography>
+                        {link2}
                     </Typography>
                 </Grid>
             </Grid>

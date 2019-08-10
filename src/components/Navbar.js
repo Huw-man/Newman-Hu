@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import avatar from "../resources/myAvatar.svg"
+import avatar from "../resources/images/myAvatar.svg"
 import {animateScroll as scroll, Link} from "react-scroll";
 
 class Navbar extends Component {
@@ -53,6 +53,18 @@ class Navbar extends Component {
                                 duration={500}
                             >
                                 Resume
+                            </Link>
+                        </li>
+                        <li className={"nav-item"}>
+                            <Link
+                                activeClass="active"
+                                to="projects"
+                                spy={true}
+                                smooth={true}
+                                offset={-70}
+                                duration={500}
+                            >
+                                Projects
                             </Link>
                         </li>
                         <li className={"nav-item"}>

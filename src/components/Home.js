@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../resources/myAvatar.svg";
+import avatar from "../resources/images/myAvatar.svg";
 
 export default function Home({dark}) {
     return (

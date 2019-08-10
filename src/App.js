@@ -6,6 +6,7 @@ import AboutMe from "./components/AboutMe";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Projects from "./components/Projects";
 
 function App() {
     return (
@@ -14,8 +15,9 @@ function App() {
             <Home/>
             <AboutMe dark={true}/>
             <Resume dark={false}/>
-            <Contact dark={true}/>
-            <Footer dark={true}/>
+            <Projects dark={true}/>
+            <Contact dark={false}/>
+            <Footer dark={false}/>
         </div>
     );
 }
