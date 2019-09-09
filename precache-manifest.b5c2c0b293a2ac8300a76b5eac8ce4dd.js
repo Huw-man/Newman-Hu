@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aa45a5d49d3d1f42280a09b3805f400",
+    "revision": "3a1ef31e1c831794c4fb9b639345cc05",
     "url": "/Newman-Hu/index.html"
   },
   {
-    "revision": "9490b7f718c5245d8c4c",
+    "revision": "041ee05da001bcd77a41",
     "url": "/Newman-Hu/static/css/main.feaee0bc.chunk.css"
   },
   {
-    "revision": "65bf30573ad9b47bf9c2",
-    "url": "/Newman-Hu/static/js/2.ca79761e.chunk.js"
+    "revision": "0fae9e3f95301d9e9ba7",
+    "url": "/Newman-Hu/static/js/2.252d9173.chunk.js"
   },
   {
-    "revision": "9490b7f718c5245d8c4c",
-    "url": "/Newman-Hu/static/js/main.15855932.chunk.js"
+    "revision": "041ee05da001bcd77a41",
+    "url": "/Newman-Hu/static/js/main.129804ca.chunk.js"
   },
   {
     "revision": "298954673295f5210196",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Newman-Hu/static/media/SLAC_Logo.b411f267.png"
   },
   {
+    "revision": "cf2811656f3bb66c221b2890b8ba4f60",
+    "url": "/Newman-Hu/static/media/footer.cf281165.jpg"
+  },
+  {
     "revision": "edb9b60a8ec482680bcd28a57734fe81",
     "url": "/Newman-Hu/static/media/main_image.edb9b60a.JPG"
   },
@@ -50,9 +54,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "277b5e806bbce14d5ee73d4c209d7a33",
     "url": "/Newman-Hu/static/media/vr_berkeley.277b5e80.png"
-  },
-  {
-    "revision": "c3991c3445a0e11e140c4bf9b44e87ad",
-    "url": "/Newman-Hu/static/media/xp_background.c3991c34.jpg"
   }
 ]);
