@@ -1,5 +1,5 @@
 import React from "react";
-import bckgnd from "../resources/images/xp_background.jpg"
+import bckgnd from "../resources/images/footer.jpg"
 
 export default function Footer({dark}) {
     return (

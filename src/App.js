@@ -6,6 +6,7 @@ import AboutMe from "./components/AboutMe";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
+import Footer from "./components/Footer";
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
             <Resume dark={false}/>
             <Projects dark={true}/>
             <Contact dark={false}/>
+            {/*<Footer/>*/}
         </div>
     );
 }

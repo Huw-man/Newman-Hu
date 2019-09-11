@@ -2,7 +2,7 @@ import React from "react";
 import ButtonBase from "@material-ui/core/ButtonBase";
 import LinkedInLogo from "../resources/images/LinkedIn_logo_initials.png"
 import FacebookLogo from "../resources/images/facebook_logo.png"
-import bckgnd from "../resources/images/xp_background.jpg"
+import bckgnd from "../resources/images/footer.jpg"
 import makeStyles from "@material-ui/core/styles/makeStyles";
 
 const useStyles = makeStyles(({
