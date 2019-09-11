@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Newman-Hu/static/css/main.b8451f5b.chunk.css",
-    "main.js": "/Newman-Hu/static/js/main.87af5d7a.chunk.js",
-    "main.js.map": "/Newman-Hu/static/js/main.87af5d7a.chunk.js.map",
+    "main.css": "/Newman-Hu/static/css/main.feaee0bc.chunk.css",
+    "main.js": "/Newman-Hu/static/js/main.5cf27cab.chunk.js",
+    "main.js.map": "/Newman-Hu/static/js/main.5cf27cab.chunk.js.map",
     "runtime~main.js": "/Newman-Hu/static/js/runtime~main.0b83ce4d.js",
     "runtime~main.js.map": "/Newman-Hu/static/js/runtime~main.0b83ce4d.js.map",
-    "static/js/2.a8efbca6.chunk.js": "/Newman-Hu/static/js/2.a8efbca6.chunk.js",
-    "static/js/2.a8efbca6.chunk.js.map": "/Newman-Hu/static/js/2.a8efbca6.chunk.js.map",
+    "static/js/2.7a4f7021.chunk.js": "/Newman-Hu/static/js/2.7a4f7021.chunk.js",
+    "static/js/2.7a4f7021.chunk.js.map": "/Newman-Hu/static/js/2.7a4f7021.chunk.js.map",
     "index.html": "/Newman-Hu/index.html",
-    "precache-manifest.2998f8b2f4e231af886e50c24195d41a.js": "/Newman-Hu/precache-manifest.2998f8b2f4e231af886e50c24195d41a.js",
+    "precache-manifest.97c75bff1d3ce81a6805682d57f7e1b1.js": "/Newman-Hu/precache-manifest.97c75bff1d3ce81a6805682d57f7e1b1.js",
     "service-worker.js": "/Newman-Hu/service-worker.js",
-    "static/css/main.b8451f5b.chunk.css.map": "/Newman-Hu/static/css/main.b8451f5b.chunk.css.map",
+    "static/css/main.feaee0bc.chunk.css.map": "/Newman-Hu/static/css/main.feaee0bc.chunk.css.map",
     "static/media/Epic Catan dice thumb.PNG": "/Newman-Hu/static/media/Epic Catan dice thumb.e12a0a57.PNG",
     "static/media/LinkedIn_logo_initials.png": "/Newman-Hu/static/media/LinkedIn_logo_initials.f08c524d.png",
     "static/media/SICK_logo_resized.png": "/Newman-Hu/static/media/SICK_logo_resized.b802740e.png",
     "static/media/SLAC_Logo.png": "/Newman-Hu/static/media/SLAC_Logo.b411f267.png",
+    "static/media/footer.jpg": "/Newman-Hu/static/media/footer.cf281165.jpg",
     "static/media/main_image.JPG": "/Newman-Hu/static/media/main_image.edb9b60a.JPG",
     "static/media/myAvatar.svg": "/Newman-Hu/static/media/myAvatar.a9284db9.svg",
-    "static/media/sait_resized.png": "/Newman-Hu/static/media/sait_resized.60ed78ce.png",
-    "static/media/xp_background.jpg": "/Newman-Hu/static/media/xp_background.c3991c34.jpg"
+    "static/media/sait_resized.png": "/Newman-Hu/static/media/sait_resized.60ed78ce.png"
   }
 }
