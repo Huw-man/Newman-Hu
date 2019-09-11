@@ -3,7 +3,7 @@ import ResumeItem from "./ResumeItem";
 import sickLogo from "../resources/images/SICK_logo_resized.png"
 import slacLogo from "../resources/images/SLAC_Logo.png"
 import saitLogo from "../resources/images/sait_resized.png"
-import VRBLogo from "../resources/images/vr_berkeley.png"
+import XRBLogo from "../resources/images/XR_berkeley.png"
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import Grid from "@material-ui/core/Grid";
 
@@ -71,8 +71,8 @@ export default function Resume({dark}) {
                     </Grid>
                     <Grid item xs={12}>
                         <ResumeItem
-                            logo={VRBLogo}
-                            company={'Virtual Reality @ Berkeley'}
+                            logo={XRBLogo}
+                            company={'Extended Reality @ Berkeley'}
                             position={'Sculpt-ML backend developer'}
                             location={'Berkeley, CA'}
                             content={'Sculpt-ML is a project aimed at developing an augmented reality mobile app to ' +
